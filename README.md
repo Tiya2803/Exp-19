@@ -6,10 +6,15 @@ To study and implement queue operations.
 
 Queue is a one-dimensional form of data that uses First In First Out (FIFO) technique. In a queue, elements are inserted at the rear (back) and deleted from the front. This makes sure that the first element added, is the first element removed, just like a queue of people at a ticket counter
 Stack operations are:
+
 → Enqueue: Insert an item onto the queue section.
+
 → Deque: Remove an item from the queue section
+
 → Peek Operation: Give the content in the front without changing it.
+
 → IsEmpty: Checks whether the queue has any elements.
+
 → IsFull: Checks whether the queue has reached its maximum capacity.
 
 
