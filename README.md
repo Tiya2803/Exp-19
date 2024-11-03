@@ -153,6 +153,12 @@ int main()
 }
 ```
 
+# Output:
+
+![image](https://github.com/user-attachments/assets/0139254b-3bc4-4e12-a128-8a173d016037)
+![image](https://github.com/user-attachments/assets/ddc1a665-c693-4116-b5ed-3a47132cdb73)
+
+
 # Conclusion:
 
 → We learnt about queue in C++.
